@@ -7,6 +7,8 @@ No me pertenecen los derechos de autor ni copyright del mismo, el único propós
 
 Para ejecutar:
 
-```go build (filename).go
-./main´´´
+```
+go build (filename).go
+./main
+```
 
